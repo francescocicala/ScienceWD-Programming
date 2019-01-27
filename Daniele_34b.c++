@@ -19,5 +19,5 @@ int main()
 	   i = i + 1;
 	}
 	cout << total << " " << n << "\n";
+	return 0;
 }
-	
