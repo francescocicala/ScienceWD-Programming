@@ -19,5 +19,5 @@ int main()
 	   i = i + 1;
 	}
 	cout << factorial << "\n";
+	return 0;
 }
-	
