@@ -23,5 +23,7 @@ int main()
 	   i = i + 1;
 	}
 	cout << total << " " << x << " "<< n << "\n";
+	
+	return 0;
 }
 	
