@@ -11,7 +11,7 @@ int main()
 	
 	for ( counter = 1 ; counter <= 1000 ; counter = counter + 1 )
 	{
-		sign = - sign ;
+            sign = - sign ;
 	    total = total  + sign *  1.0 / ( counter * 2.0 + 1.0) ;
     }
     
